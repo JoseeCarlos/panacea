@@ -1,0 +1,17 @@
+C:\Users\jose\Desktop\Panacea\Model\bin\Debug\Model.dll
+C:\Users\jose\Desktop\Panacea\Model\bin\Debug\Model.pdb
+C:\Users\jose\Desktop\Panacea\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\jose\Desktop\Panacea\Model\obj\Debug\Model.dll
+C:\Users\jose\Desktop\Panacea\Model\obj\Debug\Model.pdb
+C:\Users\jose\Desktop\proyecto bases\Panacea\Model\bin\Debug\Model.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea\Model\bin\Debug\Model.pdb
+C:\Users\jose\Desktop\proyecto bases\Panacea\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\jose\Desktop\proyecto bases\Panacea\Model\obj\Debug\Model.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea\Model\obj\Debug\Model.pdb
+C:\Users\jose\Desktop\proyecto bases\Panacea\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Model\bin\Debug\Model.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Model\bin\Debug\Model.pdb
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Model\obj\Debug\Model.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Model\obj\Debug\Model.pdb

@@ -1,0 +1,32 @@
+﻿<Window x:Class="Panacea.Users.Vnrecuperarpass"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Panacea.Users"
+         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+     TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+     TextElement.FontWeight="Regular"
+     TextElement.FontSize="13"
+     TextOptions.TextFormattingMode="Ideal"
+     TextOptions.TextRenderingMode="Auto"
+     Background="#FF99FFFF"
+     FontFamily="{DynamicResource MaterialDesignFont}"
+        mc:Ignorable="d"
+        Title="Vnrecuperarpass" Height="575.41" Width="746.516">
+    <Grid>
+        <Grid Height="80" VerticalAlignment="Top" Background="White">
+            <StackPanel Orientation="Horizontal">
+                <Image Source="img/log2.png" Width="200" Height="80"  HorizontalAlignment="Left"/>
+                <TextBlock Text="Restablecimiento de Password" Foreground="Black" FontSize="30" HorizontalAlignment="Center" VerticalAlignment="Center" FontFamily="Arial Black"/>
+            </StackPanel>
+        </Grid>
+        <TextBox x:Name="txtuserl" FontSize="17" HorizontalAlignment="Left" Height="64" Margin="178,180,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="309"/>
+        <Label Content="Ingrese su Nombre de Usuario" FontSize="17" HorizontalAlignment="Left" Margin="185,127,0,0" VerticalAlignment="Top" Height="46" Width="305" FontFamily="Arial Black"/>
+        <Label Content="Ingrese Su Correo Electronico" FontSize="17" HorizontalAlignment="Left" Margin="183,287,0,0" VerticalAlignment="Top" Height="40" Width="310" FontFamily="Arial Black"/>
+        <TextBox x:Name="txtcorreo" FontSize="17" HorizontalAlignment="Left" Height="51" Margin="174,341,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="318"/>
+        <Button x:Name="btnenviar" FontSize="17" Background="Black" Content="Eviar Correo de Recuperacion" HorizontalAlignment="Left" Margin="90,437,0,0" VerticalAlignment="Top" Width="288" Height="59" Click="btnenviar_Click"/>
+        <Button x:Name="btncancel" Content="Cancelar" FontSize="17" Background="Black" HorizontalAlignment="Left" Margin="422,436,0,0" VerticalAlignment="Top" Width="173" Height="64" Click="btncancel_Click"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,43 @@
+﻿<Window x:Class="Panacea.ViewDosificacion"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Panacea"
+        mc:Ignorable="d"
+         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+     TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+     TextElement.FontWeight="Regular"
+     TextElement.FontSize="13"
+     TextOptions.TextFormattingMode="Ideal"
+     TextOptions.TextRenderingMode="Auto"
+     
+     FontFamily="{DynamicResource MaterialDesignFont}"
+        Title="ViewDosificacion" Height="501.724" Width="1171.552" Loaded="Window_Loaded" WindowStartupLocation="CenterScreen">
+    <Grid>
+
+        <Grid Background="#99FFFF" Height="80" VerticalAlignment="Top">
+            <StackPanel Orientation="Horizontal" >
+                <TextBlock Text="Agregar Dosificacion" FontSize="30" VerticalAlignment="Center" FontFamily="Showcard Gothic" />
+            </StackPanel>
+            <Image Source="img/vi.jpg" Margin="0,0,-0.2,0" HorizontalAlignment="Right" />
+            <Image Source="img/em2.jpg" Margin="0,0,114.2,0" HorizontalAlignment="Right" />
+        </Grid>
+        <Grid Width="297" HorizontalAlignment="Left" Margin="0,81,0,0">
+            <StackPanel Orientation="Vertical" Background="White">
+                <TextBox x:Name="txtAutorizacion"  Style="{StaticResource MaterialDesignFilledTextFieldTextBox}" FontSize="12"  MaxWidth="400" MaxHeight="70" materialDesign:HintAssist.Hint="Numero de Autorizacion" Height="62" Margin="12,10,17.6,0" />
+                <DatePicker x:Name="datepik1"
+  materialDesign:HintAssist.Hint="Fecha Limite" FontSize="17" Foreground="Black"
+  Style="{StaticResource MaterialDesignFloatingHintDatePicker}" Width="250" Margin="10" />
+                <TextBox x:Name="txtLlave"  Style="{StaticResource MaterialDesignFilledTextFieldTextBox}" FontSize="12"  MaxWidth="400" MaxHeight="70" materialDesign:HintAssist.Hint="Llave de dosificacion" Height="62" Margin="12,10,17.6,0" />
+                <Button x:Name="btnAgregar" Content="Agregar " Width="100" Margin="10"  Background="Black" Click="btnAgregar_Click"/>
+                <Button x:Name="btnsal" Content="Salir" Width="100" Background="Black" Click="btnsal_Click" />
+            </StackPanel>
+
+        </Grid>
+        <Grid Margin="305,81,0.8,0">
+            <DataGrid x:Name="gridDosificaciones"/>
+        </Grid>
+
+    </Grid>
+</Window>

@@ -1,0 +1,36 @@
+﻿<Window x:Class="Panacea.VenNewPass"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Panacea"
+         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+     TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+     TextElement.FontWeight="Regular"
+     TextElement.FontSize="13"
+     TextOptions.TextFormattingMode="Ideal"
+     TextOptions.TextRenderingMode="Auto"
+     Background="#FF99FFFF"
+     FontFamily="{DynamicResource MaterialDesignFont}"
+        mc:Ignorable="d"
+        Title="VenNewPass" Height="503.693" Width="800" Loaded="Window_Loaded" WindowStartupLocation="CenterScreen" AllowsTransparency="True" WindowStyle="None" BorderBrush="Black" BorderThickness="2">
+    <Grid>
+        <Grid Height="80" VerticalAlignment="Top" Background="White">
+            <StackPanel Orientation="Horizontal">
+                <Image Source="img/log2.png" Width="200" Height="80"  HorizontalAlignment="Left"/>
+                <TextBlock Text="Cambio de Password" Foreground="Black" FontSize="35" HorizontalAlignment="Center" VerticalAlignment="Center" FontFamily="Arial Black"/>
+            </StackPanel>
+        </Grid>
+        <Button x:Name="btncambi" Background="Black" Content="Cambiar" HorizontalAlignment="Left" Margin="143,363,0,0" VerticalAlignment="Top" Width="197" Height="54" Click="btncambi_Click"/>
+        <Label Content="Nombre de Usuario:" FontSize="17" HorizontalAlignment="Left" Margin="124,124,0,0" VerticalAlignment="Top" Width="200" Height="38" FontFamily="Arial Black"/>
+        <TextBox x:Name="txtUser" FontSize="17" IsEnabled="False" HorizontalAlignment="Left" Height="37" Margin="341,114,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="144"/>
+        <Label Content="Contraseña:" HorizontalAlignment="Left" FontSize="17" Margin="195,251,0,0" VerticalAlignment="Top" Height="33" Width="129" FontFamily="Arial Black"/>
+        <PasswordBox x:Name="txtpas1" FontSize="17" HorizontalAlignment="Left" Height="36" Margin="336,247,0,0"   VerticalAlignment="Top" Width="168"/>
+        <Label Content="Repita su Contraseña:" FontSize="17" HorizontalAlignment="Left" Margin="104,291,0,0" VerticalAlignment="Top" Height="41" Width="218" FontFamily="Arial Black"/>
+        <PasswordBox x:Name="txtpas2" FontSize="17" HorizontalAlignment="Left" Height="35" Margin="334,286,0,0"   VerticalAlignment="Top" Width="173"/>
+        <Button x:Name="btncancel" Content="Cancelar" FontSize="17" Background="Black" HorizontalAlignment="Left" Margin="367,362,0,0" VerticalAlignment="Top" Width="181" Height="58" Click="btncancel_Click"/>
+        <Label Content="Contraseña Actual:" FontFamily="Arial Black" FontSize="17" HorizontalAlignment="Left" Margin="129,209,0,0" VerticalAlignment="Top" Width="186"/>
+        <PasswordBox x:Name="oldPassword" HorizontalAlignment="Left" FontSize="17" Height="37" Margin="337,208,0,0"   VerticalAlignment="Top" Width="170"/>
+
+    </Grid>
+</Window>

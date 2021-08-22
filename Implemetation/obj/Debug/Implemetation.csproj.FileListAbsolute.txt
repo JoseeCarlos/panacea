@@ -1,0 +1,34 @@
+C:\Users\jose\Desktop\Panacea\Implemetation\bin\Debug\Implemetation.dll
+C:\Users\jose\Desktop\Panacea\Implemetation\bin\Debug\Implemetation.pdb
+C:\Users\jose\Desktop\Panacea\Implemetation\bin\Debug\Dao.dll
+C:\Users\jose\Desktop\Panacea\Implemetation\bin\Debug\Model.dll
+C:\Users\jose\Desktop\Panacea\Implemetation\bin\Debug\Dao.pdb
+C:\Users\jose\Desktop\Panacea\Implemetation\bin\Debug\Model.pdb
+C:\Users\jose\Desktop\Panacea\Implemetation\obj\Debug\Implemetation.csprojAssemblyReference.cache
+C:\Users\jose\Desktop\Panacea\Implemetation\obj\Debug\Implemetation.csproj.CopyComplete
+C:\Users\jose\Desktop\Panacea\Implemetation\obj\Debug\Implemetation.dll
+C:\Users\jose\Desktop\Panacea\Implemetation\obj\Debug\Implemetation.pdb
+C:\Users\jose\Desktop\proyecto bases\Panacea\Implemetation\bin\Debug\Implemetation.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea\Implemetation\bin\Debug\Implemetation.pdb
+C:\Users\jose\Desktop\proyecto bases\Panacea\Implemetation\bin\Debug\Dao.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea\Implemetation\bin\Debug\Model.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea\Implemetation\bin\Debug\Dao.pdb
+C:\Users\jose\Desktop\proyecto bases\Panacea\Implemetation\bin\Debug\Model.pdb
+C:\Users\jose\Desktop\proyecto bases\Panacea\Implemetation\obj\Debug\Implemetation.csprojAssemblyReference.cache
+C:\Users\jose\Desktop\proyecto bases\Panacea\Implemetation\obj\Debug\Implemetation.csproj.CopyComplete
+C:\Users\jose\Desktop\proyecto bases\Panacea\Implemetation\obj\Debug\Implemetation.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea\Implemetation\obj\Debug\Implemetation.pdb
+C:\Users\jose\Desktop\proyecto bases\Panacea\Implemetation\bin\Debug\Oracle.DataAccess.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea\Implemetation\obj\Debug\Implemetation.csproj.CoreCompileInputs.cache
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Implemetation\bin\Debug\Implemetation.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Implemetation\bin\Debug\Implemetation.pdb
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Implemetation\bin\Debug\Dao.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Implemetation\bin\Debug\Model.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Implemetation\bin\Debug\Oracle.DataAccess.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Implemetation\bin\Debug\Dao.pdb
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Implemetation\bin\Debug\Model.pdb
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Implemetation\obj\Debug\Implemetation.csprojAssemblyReference.cache
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Implemetation\obj\Debug\Implemetation.csproj.CoreCompileInputs.cache
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Implemetation\obj\Debug\Implemetation.csproj.CopyComplete
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Implemetation\obj\Debug\Implemetation.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Implemetation\obj\Debug\Implemetation.pdb

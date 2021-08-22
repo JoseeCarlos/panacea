@@ -1,0 +1,31 @@
+﻿<Window x:Class="Panacea.VenCambiopass"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Panacea"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+     TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+     TextElement.FontWeight="Regular"
+     TextElement.FontSize="13"
+     TextOptions.TextFormattingMode="Ideal"
+     TextOptions.TextRenderingMode="Auto"
+     Background="#FF99FFFF"
+     FontFamily="{DynamicResource MaterialDesignFont}"
+        Title="VenCambiopass" Height="513.6" Width="692" WindowStartupLocation="CenterScreen" AllowsTransparency="True" WindowStyle="None" BorderBrush="Black" BorderThickness="1">
+    <Grid>
+        <Grid Height="80" VerticalAlignment="Top" Background="White">
+            <StackPanel Orientation="Horizontal">
+                <Image Source="img/log2.png" Width="200" Height="80"  HorizontalAlignment="Left"/>
+                <TextBlock Text="Cambio de Contraseña Obligarito" Foreground="Black" FontSize="25" HorizontalAlignment="Center" VerticalAlignment="Center" FontFamily="Arial Black"/>
+            </StackPanel>
+        </Grid>
+        <Label FontSize="17" Content="Escriba su Contraseña" HorizontalAlignment="Left" Margin="216,167,0,0" VerticalAlignment="Top" Width="217" Height="35" FontFamily="Arial Black"/>
+        <Label FontSize="17" Content="Repita su Contraseña" HorizontalAlignment="Left" Margin="220,281,0,0" VerticalAlignment="Top" Width="216" FontFamily="Arial Black"/>
+        <Button x:Name="btncambiar" FontSize="17" Background="Black" Content="Cambiar" HorizontalAlignment="Left" Margin="206,391,0,0" VerticalAlignment="Top" Width="226" Height="46" Click="btncambiar_Click"/>
+        <PasswordBox x:Name="txtpas1" HorizontalAlignment="Left" Margin="170,211,0,0" VerticalAlignment="Top" Width="299" Height="52"/>
+        <PasswordBox x:Name="txtpas2" HorizontalAlignment="Left" Margin="178,316,0,0" VerticalAlignment="Top" Width="295" Height="50"/>
+
+    </Grid>
+</Window>

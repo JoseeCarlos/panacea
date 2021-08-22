@@ -1,0 +1,75 @@
+﻿<Page x:Class="Panacea.ventanaUser"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Panacea"
+      mc:Ignorable="d" 
+     d:DesignHeight="447.6" d:DesignWidth="804.8"
+       xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+     TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+     TextElement.FontWeight="Regular"
+     TextElement.FontSize="13"
+     TextOptions.TextFormattingMode="Ideal"
+     TextOptions.TextRenderingMode="Auto"
+     Background="{DynamicResource MaterialDesignPaper}"
+     FontFamily="{DynamicResource MaterialDesignFont}"
+      Title="ventanaUser">
+
+    <Grid Background="White" Margin="0,0,-294.2,-221" >
+        <Grid Background="#99FFFF" Height="80" VerticalAlignment="Top">
+            <StackPanel Orientation="Horizontal" >
+                <TextBlock Text="Regitro De Usuarios" FontSize="30" VerticalAlignment="Center" FontFamily="Showcard Gothic" />
+            </StackPanel>
+            <Image Source="img/vi.jpg" Margin="0,0,-0.2,0" HorizontalAlignment="Right" />
+            <Image Source="img/em2.jpg" Margin="0,0,114.2,0" HorizontalAlignment="Right" />
+        </Grid>
+        <Grid Margin="199,81,480,0">
+            <StackPanel Orientation="Vertical">
+                <Label Content="Agregar un Usuario" FontSize="20" HorizontalAlignment="Center" Margin="81,5,86,5" VerticalAlignment="Top" Height="40" Width="233" FontFamily="Segoe UI Black"/>
+                <TextBox x:Name="txtnom"  Style="{StaticResource MaterialDesignFilledTextFieldTextBox}" FontSize="17"  MaxWidth="400" MaxHeight="70" materialDesign:HintAssist.Hint="Nombre Usuario" Height="69" Margin="76,0,71,0" />
+                <TextBox x:Name="txtpape"  Style="{StaticResource MaterialDesignFilledTextFieldTextBox}" FontSize="17"  MaxWidth="400" MaxHeight="70" materialDesign:HintAssist.Hint="Pri. Apellido" Height="69" Margin="76,0,71,0" />
+                <TextBox x:Name="txtsApe"  Style="{StaticResource MaterialDesignFilledTextFieldTextBox}" FontSize="17"  MaxWidth="400" MaxHeight="70" materialDesign:HintAssist.Hint="S. Apellido" Height="69" Margin="76,0,71,0" />
+                <DatePicker x:Name="datepik1"
+  materialDesign:HintAssist.Hint="Fecha de nacimiento" FontSize="17" Foreground="Black"
+  Style="{StaticResource MaterialDesignFloatingHintDatePicker}" Width="260" Margin="10" />
+                <ComboBox x:Name="combogene" FontSize="17" Margin="10" Foreground="Black" materialDesign:HintAssist.Hint="GENERO"  RenderTransformOrigin="0.238,1.35" Width="250" Height="50">
+                    <ComboBoxItem>
+                        M
+                    </ComboBoxItem>
+                    <ComboBoxItem>
+                        F
+                    </ComboBoxItem>
+                </ComboBox>
+                <TextBox x:Name="txtcorreo"  Style="{StaticResource MaterialDesignFilledTextFieldTextBox}" FontSize="17"  MaxWidth="400" MaxHeight="70" materialDesign:HintAssist.Hint="Correo" Height="69" Margin="35,0,29,0" />
+                <ComboBox x:Name="comborole" FontSize="17" Margin="10" Foreground="Black" materialDesign:HintAssist.Hint="ROL DE USUARIO"  RenderTransformOrigin="0.238,1.35" Width="250" Height="50">
+                    <ComboBoxItem>
+                        Administrador
+                    </ComboBoxItem>
+                    <ComboBoxItem>
+                        Ventas
+                    </ComboBoxItem>
+                    <ComboBoxItem>
+                        Inventario
+                    </ComboBoxItem>
+
+                </ComboBox>
+                <Button x:Name="btnagregar" Background="Black" Foreground="#99FFFF"  Content="Agregar" HorizontalAlignment="Center" VerticalAlignment="Top" Width="150" Height="40" Click="btnagregar_Click" />
+
+            </StackPanel>
+            
+
+        </Grid>
+        <Grid Margin="629,80,185,0">
+            <StackPanel>
+                <Label Content="Seleccione la imagen" FontSize="20" HorizontalAlignment="Center" FontFamily="Segoe UI Semibold" />
+                <Button x:Name="btnfile" Content="..." Width="100" Height="50" Margin="5" Click="btnfile_Click"/>
+                <Image x:Name="imageUser" Width="250" Height=" 200" Margin="10"/>
+                
+            </StackPanel>
+        </Grid>
+
+
+
+    </Grid>
+</Page>

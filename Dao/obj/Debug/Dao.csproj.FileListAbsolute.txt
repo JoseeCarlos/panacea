@@ -1,0 +1,26 @@
+C:\Users\jose\Desktop\Panacea\Dao\bin\Debug\Dao.dll
+C:\Users\jose\Desktop\Panacea\Dao\bin\Debug\Dao.pdb
+C:\Users\jose\Desktop\Panacea\Dao\bin\Debug\Model.dll
+C:\Users\jose\Desktop\Panacea\Dao\bin\Debug\Model.pdb
+C:\Users\jose\Desktop\Panacea\Dao\obj\Debug\Dao.csprojAssemblyReference.cache
+C:\Users\jose\Desktop\Panacea\Dao\obj\Debug\Dao.csproj.CopyComplete
+C:\Users\jose\Desktop\Panacea\Dao\obj\Debug\Dao.dll
+C:\Users\jose\Desktop\Panacea\Dao\obj\Debug\Dao.pdb
+C:\Users\jose\Desktop\proyecto bases\Panacea\Dao\bin\Debug\Dao.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea\Dao\bin\Debug\Dao.pdb
+C:\Users\jose\Desktop\proyecto bases\Panacea\Dao\bin\Debug\Model.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea\Dao\bin\Debug\Model.pdb
+C:\Users\jose\Desktop\proyecto bases\Panacea\Dao\obj\Debug\Dao.csprojAssemblyReference.cache
+C:\Users\jose\Desktop\proyecto bases\Panacea\Dao\obj\Debug\Dao.csproj.CopyComplete
+C:\Users\jose\Desktop\proyecto bases\Panacea\Dao\obj\Debug\Dao.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea\Dao\obj\Debug\Dao.pdb
+C:\Users\jose\Desktop\proyecto bases\Panacea\Dao\obj\Debug\Dao.csproj.CoreCompileInputs.cache
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Dao\bin\Debug\Dao.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Dao\bin\Debug\Dao.pdb
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Dao\bin\Debug\Model.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Dao\bin\Debug\Model.pdb
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Dao\obj\Debug\Dao.csprojAssemblyReference.cache
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Dao\obj\Debug\Dao.csproj.CoreCompileInputs.cache
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Dao\obj\Debug\Dao.csproj.CopyComplete
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Dao\obj\Debug\Dao.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Dao\obj\Debug\Dao.pdb

@@ -1,0 +1,42 @@
+﻿<Window x:Class="Panacea.ViewCliente"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Panacea"
+        mc:Ignorable="d"
+          xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+     TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+     TextElement.FontWeight="Regular"
+     TextElement.FontSize="13"
+     TextOptions.TextFormattingMode="Ideal"
+     TextOptions.TextRenderingMode="Auto"
+     Background="{DynamicResource MaterialDesignPaper}"
+     FontFamily="{DynamicResource MaterialDesignFont}"
+        Title="ViewCliente" Height="497.482" Width="778.417" Loaded="Window_Loaded" BorderBrush="Black" BorderThickness="2" AllowsTransparency="True" WindowStyle="None" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid Background="#99FFFF" Height="80" VerticalAlignment="Top">
+            <StackPanel Orientation="Horizontal" >
+                <TextBlock Text="Agregar Clientes" FontSize="30" VerticalAlignment="Center" FontFamily="Showcard Gothic" />
+            </StackPanel>
+            <Image Source="img/vi.jpg" Margin="0,0,-0.2,0" HorizontalAlignment="Right" />
+            <Image Source="img/em2.jpg" Margin="0,0,114.2,0" HorizontalAlignment="Right" />
+        </Grid>
+        <Grid Width="200" HorizontalAlignment="Left" Margin="0,81,0,0">
+            <StackPanel Orientation="Vertical">
+                <TextBox x:Name="txtnombre"  Style="{StaticResource MaterialDesignFilledTextFieldTextBox}" FontSize="12"  MaxWidth="400" MaxHeight="70" materialDesign:HintAssist.Hint="Nombre del Cliente" Height="62" Margin="12,10,17.6,0" />
+                <TextBox x:Name="txtPape"  Style="{StaticResource MaterialDesignFilledTextFieldTextBox}" FontSize="12"  MaxWidth="400" MaxHeight="70" materialDesign:HintAssist.Hint="Primer Apellido" Height="62" Margin="12,10,17.6,0" />
+                <TextBox x:Name="txtSeApe"  Style="{StaticResource MaterialDesignFilledTextFieldTextBox}" FontSize="12"  MaxWidth="400" MaxHeight="70" materialDesign:HintAssist.Hint="Segundo Apellido" Height="62" Margin="12,10,17.6,0" />
+                <TextBox x:Name="txtCi"  Style="{StaticResource MaterialDesignFilledTextFieldTextBox}" FontSize="12"  MaxWidth="400" MaxHeight="70" materialDesign:HintAssist.Hint="Ci" Height="62" Margin="12,10,17.6,0" />
+                <Button x:Name="btnAgregar" Content="Agregar " Width="100" Margin="10" Click="btnAgregar_Click" Background="Black"/>
+                <Button x:Name="btnsal" Content="Salir" Width="100" Background="Black" Click="btnsal_Click"/>
+            </StackPanel>
+           
+        </Grid>
+        <Grid Margin="206,81,1,0">
+            <DataGrid x:Name="gridClientes"/>
+        </Grid>
+        
+
+    </Grid>
+</Window>

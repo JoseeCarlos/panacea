@@ -1,0 +1,235 @@
+C:\Users\jose\Desktop\Panacea\Panacea\bin\Debug\Panacea.exe.config
+C:\Users\jose\Desktop\Panacea\Panacea\bin\Debug\Panacea.exe
+C:\Users\jose\Desktop\Panacea\Panacea\bin\Debug\Panacea.pdb
+C:\Users\jose\Desktop\Panacea\Panacea\bin\Debug\MaterialDesignColors.dll
+C:\Users\jose\Desktop\Panacea\Panacea\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\jose\Desktop\Panacea\Panacea\bin\Debug\MaterialDesignColors.pdb
+C:\Users\jose\Desktop\Panacea\Panacea\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\jose\Desktop\Panacea\Panacea\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\jose\Desktop\Panacea\Panacea\obj\Debug\Panacea.csprojAssemblyReference.cache
+C:\Users\jose\Desktop\Panacea\Panacea\obj\Debug\MainWindow.g.cs
+C:\Users\jose\Desktop\Panacea\Panacea\obj\Debug\App.g.cs
+C:\Users\jose\Desktop\Panacea\Panacea\obj\Debug\Panacea_MarkupCompile.cache
+C:\Users\jose\Desktop\Panacea\Panacea\obj\Debug\Panacea_MarkupCompile.lref
+C:\Users\jose\Desktop\Panacea\Panacea\obj\Debug\App.baml
+C:\Users\jose\Desktop\Panacea\Panacea\obj\Debug\MainWindow.baml
+C:\Users\jose\Desktop\Panacea\Panacea\obj\Debug\Panacea.g.resources
+C:\Users\jose\Desktop\Panacea\Panacea\obj\Debug\Panacea.Properties.Resources.resources
+C:\Users\jose\Desktop\Panacea\Panacea\obj\Debug\Panacea.csproj.GenerateResource.cache
+C:\Users\jose\Desktop\Panacea\Panacea\obj\Debug\Panacea.csproj.CopyComplete
+C:\Users\jose\Desktop\Panacea\Panacea\obj\Debug\Panacea.exe
+C:\Users\jose\Desktop\Panacea\Panacea\obj\Debug\Panacea.pdb
+C:\Users\jose\Desktop\Panacea\Panacea\bin\Debug\Dao.dll
+C:\Users\jose\Desktop\Panacea\Panacea\bin\Debug\Implemetation.dll
+C:\Users\jose\Desktop\Panacea\Panacea\bin\Debug\Model.dll
+C:\Users\jose\Desktop\Panacea\Panacea\bin\Debug\Dao.pdb
+C:\Users\jose\Desktop\Panacea\Panacea\bin\Debug\Implemetation.pdb
+C:\Users\jose\Desktop\Panacea\Panacea\bin\Debug\Model.pdb
+C:\Users\jose\Desktop\Panacea\Panacea\obj\Debug\Page2.g.cs
+C:\Users\jose\Desktop\Panacea\Panacea\obj\Debug\Page2.baml
+C:\Users\jose\Desktop\Panacea\Panacea\obj\Debug\Users\WinLogin.g.cs
+C:\Users\jose\Desktop\Panacea\Panacea\obj\Debug\Users\WinLogin.baml
+C:\Users\jose\Desktop\Panacea\Panacea\obj\Debug\ventanaUser.g.cs
+C:\Users\jose\Desktop\Panacea\Panacea\obj\Debug\ventanaUser.baml
+C:\Users\jose\Desktop\Panacea\Panacea\obj\Debug\VenCambiopass.g.cs
+C:\Users\jose\Desktop\Panacea\Panacea\obj\Debug\VenCambiopass.baml
+C:\Users\jose\Desktop\Panacea\Panacea\obj\Debug\VenNewPass.g.cs
+C:\Users\jose\Desktop\Panacea\Panacea\obj\Debug\VenNewPass.baml
+C:\Users\jose\Desktop\Panacea\Panacea\obj\Debug\VenlistUser.g.cs
+C:\Users\jose\Desktop\Panacea\Panacea\obj\Debug\VenlistUser.baml
+C:\Users\jose\Desktop\Panacea\Panacea\obj\Debug\Vnrecuperarpass.g.cs
+C:\Users\jose\Desktop\Panacea\Panacea\obj\Debug\Vnrecuperarpass.baml
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\bin\Debug\Panacea.exe.config
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\bin\Debug\Panacea.exe
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\bin\Debug\Panacea.pdb
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\bin\Debug\Dao.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\bin\Debug\Implemetation.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\bin\Debug\MaterialDesignColors.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\bin\Debug\Model.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\bin\Debug\Dao.pdb
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\bin\Debug\Implemetation.pdb
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\bin\Debug\Model.pdb
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\bin\Debug\MaterialDesignColors.pdb
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\Panacea.csprojAssemblyReference.cache
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\MainWindow.g.cs
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\Page2.g.cs
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\Venfarmacia.g.cs
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\Vnrecuperarpass.g.cs
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\Users\WinLogin.g.cs
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\VenCambiopass.g.cs
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\VenlistUser.g.cs
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\VenNewPass.g.cs
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\ventanaUser.g.cs
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\App.g.cs
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\Panacea_MarkupCompile.cache
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\Panacea_MarkupCompile.lref
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\App.baml
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\MainWindow.baml
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\Page2.baml
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\Venfarmacia.baml
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\Vnrecuperarpass.baml
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\Users\WinLogin.baml
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\VenCambiopass.baml
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\VenlistUser.baml
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\VenNewPass.baml
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\ventanaUser.baml
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\Panacea.g.resources
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\Panacea.Properties.Resources.resources
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\Panacea.csproj.GenerateResource.cache
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\Panacea.csproj.CopyComplete
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\Panacea.exe
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\Panacea.pdb
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\VentanaProve.g.cs
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\VentanaProve.baml
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\Productolist.g.cs
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\Productolist.baml
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\ProductoRes.g.cs
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\ProductoRes.baml
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\ViewCliente.g.cs
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\ViewCliente.baml
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\ViewVenta.g.cs
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\ViewVenta.baml
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\ViewVentaList.g.cs
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\ViewVentaList.baml
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\VwVenCanceladas.g.cs
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\VwVenCanceladas.baml
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\bin\Debug\Oracle.DataAccess.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\Panacea.csproj.CoreCompileInputs.cache
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\ViewDosificacion.g.cs
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\ViewDosificacion.baml
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\bin\Debug\stdole.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\bin\Debug\sapbusinessobjects.wpf.viewer.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\FacturaImp.g.cs
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\FacturaImp.baml
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\RdlCompile.cache
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\RdlCompile.compiled
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\ReportVentas.g.cs
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\ReportVentas.baml
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\ReporView2.g.cs
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\ReporView2.baml
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\ReporteView3.g.cs
+C:\Users\jose\Desktop\proyecto bases\Panacea\Panacea\obj\Debug\ReporteView3.baml
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\bin\Debug\Panacea.exe.config
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\bin\Debug\Panacea.exe
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\bin\Debug\Panacea.pdb
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\bin\Debug\Dao.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\bin\Debug\Implemetation.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\bin\Debug\MaterialDesignColors.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\bin\Debug\Model.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\bin\Debug\sapbusinessobjects.wpf.viewer.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\bin\Debug\Oracle.DataAccess.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\bin\Debug\stdole.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\bin\Debug\Dao.pdb
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\bin\Debug\Implemetation.pdb
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\bin\Debug\Model.pdb
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\bin\Debug\MaterialDesignColors.pdb
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\Panacea.csprojAssemblyReference.cache
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\FacturaImp.g.cs
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\MainWindow.g.cs
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\Page2.g.cs
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\ProductoRes.g.cs
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\Productolist.g.cs
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\QRee.g.cs
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\ReporteView3.g.cs
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\ReportVentas.g.cs
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\ReporView2.g.cs
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\Venfarmacia.g.cs
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\VentanaProve.g.cs
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\ViewCliente.g.cs
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\ViewDosificacion.g.cs
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\ViewVenta.g.cs
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\ViewVentaList.g.cs
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\Vnrecuperarpass.g.cs
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\Users\WinLogin.g.cs
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\VenCambiopass.g.cs
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\VenlistUser.g.cs
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\VenNewPass.g.cs
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\ventanaUser.g.cs
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\VwVenCanceladas.g.cs
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\App.g.cs
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\Panacea_MarkupCompile.cache
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\Panacea_MarkupCompile.lref
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\App.baml
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\FacturaImp.baml
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\MainWindow.baml
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\Page2.baml
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\ProductoRes.baml
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\Productolist.baml
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\QRee.baml
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\ReporteView3.baml
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\ReportVentas.baml
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\ReporView2.baml
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\Venfarmacia.baml
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\VentanaProve.baml
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\ViewCliente.baml
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\ViewDosificacion.baml
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\ViewVenta.baml
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\ViewVentaList.baml
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\Vnrecuperarpass.baml
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\Users\WinLogin.baml
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\VenCambiopass.baml
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\VenlistUser.baml
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\VenNewPass.baml
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\ventanaUser.baml
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\VwVenCanceladas.baml
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\Panacea.g.resources
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\Panacea.Properties.Resources.resources
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\Panacea.csproj.GenerateResource.cache
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\RdlCompile.cache
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\RdlCompile.compiled
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\Panacea.csproj.CoreCompileInputs.cache
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\Panacea.csproj.CopyComplete
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\Panacea.exe
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\Panacea.pdb
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\ProDetalle.g.cs
+C:\Users\jose\Desktop\proyecto bases\Panacea (5)\Panacea\Panacea\obj\Debug\ProDetalle.baml

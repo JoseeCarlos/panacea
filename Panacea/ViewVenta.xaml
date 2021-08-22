@@ -1,0 +1,109 @@
+﻿<Window x:Class="Panacea.ViewVenta"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Panacea"
+        mc:Ignorable="d"
+          xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+     TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+     TextElement.FontWeight="Regular"
+     TextElement.FontSize="13"
+     TextOptions.TextFormattingMode="Ideal"
+     TextOptions.TextRenderingMode="Auto"
+     Background="{DynamicResource MaterialDesignPaper}"
+     FontFamily="{DynamicResource MaterialDesignFont}"
+        Title="ViewVenta" Height="734.523" Width="1159.139" Loaded="Window_Loaded" WindowStartupLocation="CenterScreen" BorderBrush="Black" BorderThickness="2" AllowsTransparency="True" WindowStyle="None">
+    <Grid>
+        <Grid Background="#99FFFF" Height="80" VerticalAlignment="Top">
+            <StackPanel Orientation="Horizontal" >
+                <TextBlock Text="Realizar Venta" FontSize="30" VerticalAlignment="Center" FontFamily="Showcard Gothic" />
+            </StackPanel>
+            <Image Source="img/vi.jpg" Margin="0,0,-0.2,0" HorizontalAlignment="Right" />
+            <Image Source="img/em2.jpg" Margin="0,0,114.2,0" HorizontalAlignment="Right" />
+        </Grid>
+        <Grid Width="343" HorizontalAlignment="Left" Margin="0,80,0,-0.4">
+            <StackPanel Orientation="Vertical">
+                <Button x:Name="bntCliente" Content="Nuevo Cliente" Width="140" Margin="0,5" Background="Black" Click="bntCliente_Click"/>
+                <ComboBox Margin="0 15" IsEditable="True" KeyUp="comboCliente_KeyUp" SelectionChanged="comboCliente_SelectionChanged" DropDownOpened="comboCliente_DropDownOpened"
+    Style="{StaticResource MaterialDesignFilledComboBox}"
+    x:Name="comboCliente"
+   
+    materialDesign:HintAssist.Hint="Seleccione el Cliente"
+    Width="256">
+
+                </ComboBox>
+                <TextBlock Text="Seleccione El Producto" Margin="32,0,35.2,0"/>
+                <TextBox x:Name="txtProduc"
+    Style="{StaticResource MaterialDesignOutlinedTextFieldTextBox}"
+    Width="200"
+    Height="40"
+    AcceptsReturn="True"
+    TextWrapping="Wrap"
+    VerticalScrollBarVisibility="Auto"
+    materialDesign:HintAssist.Hint="Producto" Margin="10" TextChanged="txtProduc_TextChanged"/>
+                <DataGrid x:Name="dataProduct" Width="330" Height="240" CanUserAddRows="False" BorderBrush="Black" BorderThickness="1" SelectionChanged="dataProduct_SelectionChanged"/>
+                <Image x:Name="imageProduct" Width="200" Height="150" Margin="5"/>
+                <Button Content="Agregar Al Carrito" Width="200" Margin="5" Click="Button_Click" BorderBrush="Black" BorderThickness="1" Background="Black"/>
+
+
+            </StackPanel>
+        </Grid>
+        <Grid Margin="345,82,2,515.4">
+            <StackPanel Orientation="Horizontal">
+
+                <TextBox x:Name="txtcliente" 
+    Style="{StaticResource MaterialDesignOutlinedTextFieldTextBox}"
+    Width="200"
+    Height="40"
+    AcceptsReturn="True"
+    TextWrapping="Wrap"
+    VerticalScrollBarVisibility="Auto"
+    materialDesign:HintAssist.Hint="Cliente" Margin="70,10,40,10"/>
+
+                <TextBox x:Name="txtUser" IsEnabled="False"
+    Style="{StaticResource MaterialDesignOutlinedTextFieldTextBox}"
+    Width="200"
+    Height="40"
+    AcceptsReturn="True"
+    TextWrapping="Wrap"
+    VerticalScrollBarVisibility="Auto"
+    materialDesign:HintAssist.Hint="Usuario" Margin="70,10,40,10"/>
+                <TextBox x:Name="txtTotal"
+    Style="{StaticResource MaterialDesignOutlinedTextFieldTextBox}"
+    Width="157"
+    Height="40"
+    AcceptsReturn="True"
+    TextWrapping="Wrap"
+    VerticalScrollBarVisibility="Auto"
+    materialDesign:HintAssist.Hint="Total a Pagar" Margin="10,47,10,46.6"/>
+            </StackPanel>
+        </Grid>
+        <Grid Margin="350,182,3,0.4">
+            <StackPanel Orientation="Vertical">
+                <DataGrid x:Name="dtProductl" Height="374" Margin="10,10,10.2,10" AutoGenerateColumns="False" CanUserAddRows="False" ItemsSource="{Binding products}" BorderBrush="Black" BorderThickness="1">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn x:Name="dgcproductid" Header="Id" Binding="{Binding IdProducto}"/>
+                        <DataGridTextColumn x:Name="dgcnamepro" Header="Producto" Binding="{Binding NombreProducto}"/>
+                        <DataGridTextColumn x:Name="dgcprecio" Header="Precio" Binding="{Binding Precio}"/>
+                        <DataGridTextColumn x:Name="dgcCantidad" Header="Cantidad" Binding="{Binding Cantidad}"/>
+
+                    </DataGrid.Columns>
+                    <DataGrid.ContextMenu>
+                        <ContextMenu>
+                            <MenuItem x:Name="btnquitar" Header="Quitar" Click="btnquitar_Click" />
+
+                        </ContextMenu>
+                    </DataGrid.ContextMenu>
+                </DataGrid>
+                <StackPanel Orientation="Horizontal" Margin="0,50,0,0" HorizontalAlignment="Center">
+                    <Button x:Name="btnlim" Content="Vaciar Carrito" Margin="20,0" Background="Black" Click="btnlim_Click" />
+                    <Button x:Name="btnVenta" Content="VENDER " Margin="20,0" Click="btnVenta_Click" Background="Black" />
+                    <Button x:Name="BtExist" Content="CANCELAR" Margin="20,0" Click="BtExist_Click" Background="Black"/>
+                </StackPanel>
+            </StackPanel>
+        </Grid>
+
+
+    </Grid>
+</Window>

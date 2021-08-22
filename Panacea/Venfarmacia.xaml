@@ -1,0 +1,74 @@
+﻿<Page x:Class="Panacea.Venfarmacia"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Panacea"
+      mc:Ignorable="d" 
+       xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+     TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+     TextElement.FontWeight="Regular"
+     TextElement.FontSize="13"
+     TextOptions.TextFormattingMode="Ideal"
+     TextOptions.TextRenderingMode="Auto"
+     Background="{DynamicResource MaterialDesignPaper}"
+     FontFamily="{DynamicResource MaterialDesignFont}"
+      xmlns:m="clr-namespace:Microsoft.Maps.MapControl.WPF;assembly=Microsoft.Maps.MapControl.WPF"
+      Title="Venfarmacia"   d:DesignHeight="447.6" d:DesignWidth="804.8" Loaded="Page_Loaded">
+
+    <Grid Background="White" Margin="0,0,-244.2,-171">
+        <Grid Background="#99FFFF" Height="80" VerticalAlignment="Top">
+            <StackPanel Orientation="Horizontal" >
+                <TextBlock Text="Regitro De Proveedor" FontSize="30" VerticalAlignment="Center" FontFamily="Showcard Gothic" />
+            </StackPanel>
+            <Image Source="img/vi.jpg" Margin="0,0,-0.2,0" HorizontalAlignment="Right" />
+            <Image Source="img/em2.jpg" Margin="0,0,114.2,0" HorizontalAlignment="Right" />
+        </Grid>
+        <Grid Width="290" HorizontalAlignment="Left" Margin="0,82,0,-0.4">
+            <StackPanel HorizontalAlignment="Center" Orientation="Vertical" Margin="0,0,0,-0.4">
+                <TextBlock Text="Ingrese los Datos " FontSize="25" Margin="10" Foreground="Black" TextAlignment="Center" FontFamily="Arial Black"/>
+                <ComboBox Margin="0 15" SelectionChanged="combopais_SelectionChanged"
+    Style="{StaticResource MaterialDesignFilledComboBox}"
+    x:Name="combopais"
+   
+    materialDesign:HintAssist.Hint="Seleccione el Pais"
+    Width="256">
+
+                </ComboBox>
+                <ComboBox
+    Style="{StaticResource MaterialDesignFilledComboBox}"
+    x:Name="combociudad"
+   
+    materialDesign:HintAssist.Hint="Seleccione la Ciudad"
+    Width="256">
+
+                </ComboBox>
+                <TextBox x:Name="txtnombre"  Style="{StaticResource MaterialDesignFilledTextFieldTextBox}" FontSize="17"  MaxWidth="400" MaxHeight="70" materialDesign:HintAssist.Hint="Nombre Proveedor" Height="69" Margin="12,10,18,0" />
+                <TextBox x:Name="txtdirec"  Style="{StaticResource MaterialDesignFilledTextFieldTextBox}" FontSize="17"  MaxWidth="400" MaxHeight="70" materialDesign:HintAssist.Hint="Direccion" Height="69" Margin="16,10,15,0" />
+                <TextBox x:Name="txtTelefono"  Style="{StaticResource MaterialDesignFilledTextFieldTextBox}" FontSize="17"  MaxWidth="400" MaxHeight="70" materialDesign:HintAssist.Hint="Telefono" Height="69" Margin="16,10,12,0" />
+                <Button x:Name="btnregis" Background="Black" Content="Registrar" HorizontalAlignment="Center" Margin="10"   Width="101" Click="btnregis_Click"/>
+                <Button x:Name="btnCancel" Background="Black" Content="Cancelar" HorizontalAlignment="Center"   Width="103" Grid.Row="1"/>
+            </StackPanel>
+        </Grid>
+        <Grid Width="797" HorizontalAlignment="Right" Margin="0,81,0,-1">
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="481*"/>
+                <RowDefinition Height="59*"/>
+            </Grid.RowDefinitions>
+            <m:Map x:Name="myMap" Margin="-3,32,23,51.2" CredentialsProvider="AlRJpzgX-PTCB1V_d9mNmyezG45V1rwt6khgeBKas3DxDqe2RuNV0o9Hjtqpz1gw" ZoomLevel="12" Center="-17.387324 ,-66.166499" MouseDoubleClick="myMap_MouseDoubleClick" Grid.RowSpan="2"/>
+            <Button x:Name="btnsatelite" Background="Black" Content="Satelite"    Width="87" Click="btnsatelite_Click" Margin="167,12,543,15.2" Grid.Row="1"/>
+            <Button x:Name="btncalles" Content="Calles"  Background="Black" Width="83" Click="btncalles_Click" Margin="279,9,435,18.2" Grid.Row="1"/>
+            <Button x:Name="btnmas" Content="+"  Background="Black" Width="75" Click="btnmas_Click" Margin="379,12,343,15.2" Grid.Row="1"/>
+            <Button x:Name="btnmenos" Content="-" Background="Black"  Width="75" Click="btnmenos_Click" Margin="482,10,240,17.2" Grid.Row="1"/>
+
+
+
+        </Grid>
+
+
+
+
+
+    </Grid>
+</Page>
